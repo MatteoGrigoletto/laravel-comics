@@ -16,11 +16,12 @@
 <body>
     <header>
     @include("partials.header")
+    @include("partials.hero")
     </header>
     
     <main>
         <div class="container">
-            @include("partials.main")
+            @include("partials.card")
         </div>
     </main>
     <footer>

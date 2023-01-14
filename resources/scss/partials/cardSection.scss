@@ -1,0 +1,27 @@
+img {
+    width: 100%;
+    display: block;
+}
+.my-section-card {
+    padding: 30px 0px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    color: white;
+
+    .my-card {
+        width: calc(100% / 6 - 20px);
+        margin: 0px 10px;
+
+        .my-card-img {
+            width: 100%;
+        }
+        h6 {
+            text-align: center;
+        }
+    }
+    button {
+        background-color: #0282f9;
+        color: white;
+    }
+}

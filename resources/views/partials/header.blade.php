@@ -15,7 +15,7 @@
         </div>
     </div>
     <div class="container header-bottom d-flex align-items-center">
-        <img class="py-4" src="{{Vite::asset("resources/img/dc-logo.png")}}" alt="Logo DC">
+        <img class="py-1" src="{{Vite::asset("resources/img/dc-logo.png")}}" alt="Logo DC">
         <ul class="d-flex ms-ul list-unstyled align-items-center mb-0 fw-bold" >
             <li><a href="#">CHARACTERS</a> </li>
             <li><a href="#">COMICS</a> </li>
