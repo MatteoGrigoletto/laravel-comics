@@ -1,6 +1,6 @@
 
     <div class="header-top">
-        <div class="container d-flex justify-content-end py-1 align-items-center">
+        <div class="container d-flex justify-content-end align-items-center">
             <span>DC POWER™ VISA®</span>
             <div class="dropdown ms-3">
                 <button class="btn dropdown-toggle fw-bold ms-dropdown" type="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -14,7 +14,7 @@
             </div>
         </div>
     </div>
-    <div class="container header-bottom d-flex align-items-center">
+    <div class="container header-bottom d-flex align-items-center justify-content-center">
         <img class="py-1" src="{{Vite::asset("resources/img/dc-logo.png")}}" alt="Logo DC">
         <ul class="d-flex ms-ul list-unstyled align-items-center mb-0 fw-bold" >
             <li><a href="#">CHARACTERS</a> </li>

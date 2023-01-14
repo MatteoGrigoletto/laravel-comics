@@ -20,9 +20,9 @@
     </header>
     
     <main>
-        <div class="container">
             @include("partials.card")
-        </div>
+            @include("partials.store")
+        
     </main>
     <footer>
     @include("partials.footer")
